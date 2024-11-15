@@ -5,7 +5,6 @@ A simple Go app that tells you if it’s safe to go outside near grass based on 
 ## What It Does
 - Finds your location using your IP address.
 - Gets the current weather (temperature and wind speed) for your area.
-- Advises if it's safe to step outside or stay indoors.
 
 # Installation
 
